@@ -1,11 +1,12 @@
-# React + Vite
 
-Multilingual Chat App
+# Multilingual Chat App
 
-Overview
+# Overview
+
 Welcome to the Multilingual Chat App! This application leverages the power of the Google Cloud Translation API to facilitate seamless communication across over 133 languages. Whether you're looking to overcome language barriers or learn new languages through hands-on interaction, this app has got you covered.
 
-Features
+# Features
+
 Real-time Translation: Communicate in real-time with users from around the globe, with messages automatically translated into your preferred language.
 
 Language Learning: Enhance your language skills by interacting with native speakers and receiving translations of your conversations.
@@ -16,13 +17,13 @@ Robust Backend: Powered by Node.js and Express, ensuring efficient handling of A
 ChatEngine Integration: Leverages the ChatEngine API for real-time chat functionalities.
 
 
-Technologies Used
+# Technologies Used
 
 Frontend: React, CSS
 Backend: Node.js, Express
 APIs: Google Cloud Translation API, ChatEngine API
 
-Installation
+# Installation
 
 1. Clone the Repository
 git clone https://github.com/your-username/multilingual-chat-app.git
